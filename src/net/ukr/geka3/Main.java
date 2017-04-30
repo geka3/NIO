@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 
 public class Main {
-	//second type2
+	//second type3
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Path  p = Paths.get("pr.txt");
